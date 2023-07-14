@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Project5</string>
+
+    <string-array name="toppingNames">
+        <item>BBQ Chicken</item>
+        <item>beef</item>
+        <item>cheddar</item>
+        <item>black olive</item>
+        <item>ham</item>
+        <item>green pepper</item>
+        <item>onion</item>
+        <item>pineapple</item>
+        <item>provolone</item>
+        <item>sausage</item>
+        <item>spinach</item>
+        <item>pepperoni</item>
+        <item>mushroom</item>
+    </string-array>
+
+    <string name="chicagoStyleText">Chicago style</string>
+    <string name="newYorkStyleText">New York style</string>
+    <string name="currentOrderText">Current order</string>
+    <string name="storedOrdersText">Stored orders</string>
+
+    <string name="crustText">Crust: </string>
+    <string name="smallText">small</string>
+    <string name="mediumText">medium</string>
+    <string name="largeText">large</string>
+    <string name="priceText">Price: </string>
+    <string name="toppingsText">Toppings: </string>
+    <string name="addPizzaToOrderText">Add pizza to order</string>
+
+    <string name="orderNumberText">Order number: </string>
+    <string name="subtotalText">Subtotal: </string>
+    <string name="salesTaxText">Sales Tax: </string>
+    <string name="totalText">Total: </string>
+    <string name="clearOrderText">Clear order</string>
+    <string name="placeOrderText">Place order</string>
+
+    <string name="chooseOrderText">Choose order: </string>
+    <string name="totalWithTaxText">Total (sales tax included): </string>
+    <string name="cancelOrderText">Cancel order</string>
+
+    <string name="addToppingText">Add</string>
+    <string name="removeToppingText">Remove</string>
+
+</resources>
